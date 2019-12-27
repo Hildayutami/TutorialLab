@@ -1,0 +1,4 @@
+NO.REG		= 1820010002
+Nama		= Abram Fernando Haullussy
+Jurusan 	= TI Reguler
+Angkatan	= 2018
